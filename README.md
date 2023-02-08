@@ -4,6 +4,6 @@ Iran has one of the most limited internet among the countries, some platforms we
 
 |                   **VPN Name** | **Is Free?** | **Need Account?** | **Windows** | **MacOS** | **Linux** | **Android** | **iOS** | **Download**                            |
 |-------------------------------:|--------------|-------------------|-------------|-----------|-----------|-------------|---------|-----------------------------------------|
-| [Lantern](https://lantern.io/) |       ✅      |         ❌         |      ✅      |     ✅     |     ✅     |      ✅      |    ✅    | [Download](https://lantern.io/download) |
+| [Lantern](https://lantern.io/) |✅|         ❌         |      ✅      |     ✅     |     ✅     |      ✅      |    ✅    | [Download](https://lantern.io/download) |
 |                                |              |                   |             |           |           |             |         |                                         |
 |                                |              |                   |             |           |           |             |         |                                         |
