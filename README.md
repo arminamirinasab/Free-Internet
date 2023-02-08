@@ -7,4 +7,4 @@ Iran has one of the most limited internet among the countries, some platforms we
 |:----------------------------------------------:|:-------------:|:-----------------:|:-----------:|:-------:|:---------:|:-----------:|:-------:|:---------------------:|:--------------------------------------------:|
 |         [Lantern](https://lantern.io/)         |   3GB Daily   |         ❌         |      ✅      |    ✅    |     ✅     |      ✅      |    ✅    |           ❌           |    [Download](https://lantern.io/download)   |
 |      [Windscribe](https://windscribe.com/)     |  5GB Monthly  |    Need Account   |      ✅      |    ✅    |     ✅     |      ✅      |    ✅    |           ✅           |  [Download](https://windscribe.com/download) |
-| [TunnelBear](Tunnehttps://www.tunnelbear.com/) | 500MB Monthly |    Need Account   |      ✅      |    ✅    |     ❌     |      ✅      |    ✅    |           ✅           | [Download](https://paskoocheh.com/tools/18/) |
+| [TunnelBear](https://www.tunnelbear.com/) | 500MB Monthly |    Need Account   |      ✅      |    ✅    |     ❌     |      ✅      |    ✅    |           ✅           | [Download](https://paskoocheh.com/tools/18/) |
